@@ -1,2 +1,2 @@
 ## Hello am kontirol 👋
-![](snake-Light.svg)
+![](/snake-Light.svg)
