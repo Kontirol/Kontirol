@@ -1,4 +1,4 @@
-## Hello am kontirol 👋
+## Hello am ctrl 👋
 ![](/snake-Light.svg)
 
 我的网站：kontirol.cn
