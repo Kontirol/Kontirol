@@ -1,4 +1,4 @@
 ## Hello am ctrl 👋
-![](/snake-Light.svg)
+![](/snake-Dark.svg)
 
 我的网站：kontirol.cn
